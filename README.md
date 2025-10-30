@@ -42,5 +42,7 @@ Broadband Substrate Integrated Waveguide to Rectangular Waveguide Transition at 
 提出單層、直角式 SIW 至矩形波導轉接，採孔徑耦合，於 RWG 開口中心置金屬條並在側邊設匹配 via 以操控場型、提升耦合與匹配。單一轉接模擬達 |S11|<−15 dB 之 50.2–65.2 GHz（26%），頻帶內插損 <0.23 dB；背靠背則 |S11|<−15 dB 的 52.5–64.5 GHz（20.5%），插損 <0.4 dB。   
 
 A_K-band_Wideband_Low_Insertion_Loss_SIW-to-Waveguide_Transition  
-K頻段寬頻低損SIW-至-波導轉接，結構由SIW腔體、四階雙脊波導與SIW-to-GCPW線組成；透過調整腔內金屬貼片與脊階尺寸，兼顧場型與阻抗連續。量測/模擬顯示18–27 GHz內|S11|<−20 dB、插入損耗<1.2 dB，覆蓋整個K頻；採三層RO4350B/4450F製作，整合度高、抑漏佳。相較傳統微帶探針+背短方案  
+K頻段寬頻低損SIW-至-波導轉接，結構由SIW腔體、四階雙脊波導與SIW-to-GCPW線組成；透過調整腔內金屬貼片與脊階尺寸，兼顧場型與阻抗連續。量測/模擬顯示18–27 GHz內|S11|<−20 dB、插入損耗<1.2 dB，覆蓋整個K頻；採三層RO4350B/4450F製作，整合度高、抑漏佳。相較傳統微帶探針+背短方案    
+Broadband Ka-band rectangular waveguide  
+提出Ka頻段直角式矩形波導（RWG）至SIW轉接：於SIW寬面開兩條不同長度狹縫，藉雙共振拓寬頻寬；RWG法蘭與基板齊平，狹縫至末端約3/4波長短路以實現阻抗轉換。量測/模擬顯示26 GHz附近15 dB回波下具6.6%頻寬，單一轉接插損<0.5 dB   
 
