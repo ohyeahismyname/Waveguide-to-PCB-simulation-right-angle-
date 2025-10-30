@@ -29,6 +29,15 @@ Design_of_wideband_waveguide_to_microstrip_transition_for_60_GHz_frequency_band
 Wideband_probe-type_waveguide-to-microstrip_transition_for_V-band_applications  
 本文提出V頻段探針式波導-微帶轉接。PCB夾於WR15與背短之間，微帶端同側探針作匹配；轉接區兩大型通孔移除介質、降低等效電容並拓寬頻寬，周圍via-fence抑制能量外洩。量測示57–70 GHz內|S11|<−10 dB，去嵌後單一轉接損耗約0.75 dB；模擬50–70 GHz皆低損，57–64 GHz|S21|>−0.25 dB  
 
+W-band_Microstrip-to-Waveguide_Transition_without_Back-short_Structure
+提出無背短（back-short）的W頻段微帶-波導轉接，含微帶線、耦合匹配層與矩形波導三部分。雙層石英上佈置匹配與諧振貼片，配合金屬化通孔與頂層短路面形成半封閉空腔以抑制外洩。模擬顯示88.6–99.1 GHz內|S11|<−10 dB（≈11.2%），中心頻率插損≈0.3 dB  
+
+Bandwidth_Extension_of_Planar_Microstrip-to-Waveguide_Transition_by_Controlling_Transmission_Modes_Through_Via-Hole_Positioning_in_Millimeter-Wave_Band  
+提出單層微帶-波導轉接，利用貼近微帶的兩顆 via 控制多傳輸模（G-CPW/平行板），在輸入端形成雙共振，將頻寬拓至 10.6 GHz（13.8%）；量測於 76.5 GHz 插損僅 0.41 dB。並以 1/4 波長 choke 取代多數 via，仍維持近似回波與傳輸  
+
+Broadband Transition of Substrate-Integrated 不知道為什麼會有兩個檔案 好像差不多 可以參考參考  
+提出V頻段單層PCB之SIW至空腔矩形波導直角轉接。以耦合貼片配兩對感性柱並微修耦合孔形狀，增強耦合與匹配；結構緊湊、低成本。模擬示|S11|<−10 dB之頻寬達約48%（≈47.2–77.5 GHz），單一轉接插損<0.5 dB  
+
 
 
 
