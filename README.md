@@ -20,5 +20,6 @@ A_fully_micromachined_W-band_waveguide-to-grounded_coplanar_waveguide_transition
 An_Ultra-Wideband_Microstrip-to-WR15_Waveguide_Transition_for_MMIC_Applications
 WR15轉接MS 50-75GHz  
 結構採金屬外殼與雙層PCB：先以Klopfenstein錐形將微帶匹配至SIW，再以底面耦合孔連接至波導，殼體內置三階阻抗轉換。量測顯示|S11|<−10 dB、|S21|優於−2.5 dB
+其中original 的檔案才是原文結構
 
 
