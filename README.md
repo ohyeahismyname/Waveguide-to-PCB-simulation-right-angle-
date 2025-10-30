@@ -39,10 +39,8 @@ Broadband Transition of Substrate-Integrated 不知道為什麼會有兩個檔�
 提出V頻段單層PCB之SIW至空腔矩形波導直角轉接。以耦合貼片配兩對感性柱並微修耦合孔形狀，增強耦合與匹配；結構緊湊、低成本。模擬示|S11|<−10 dB之頻寬達約48%（≈47.2–77.5 GHz），單一轉接插損<0.5 dB  
 
 Broadband Substrate Integrated Waveguide to Rectangular Waveguide Transition at V-Band  有兩個檔案 原版以及自己tune的  
-提出單層、直角式 SIW 至矩形波導轉接，採孔徑耦合，於 RWG 開口中心置金屬條並在側邊設匹配 via 以操控場型、提升耦合與匹配。單一轉接模擬達 |S11|<−15 dB 之 50.2–65.2 GHz（26%），頻帶內插損 <0.23 dB；背靠背則 |S11|<−15 dB 的 52.5–64.5 GHz（20.5%），插損 <0.4 dB。
+提出單層、直角式 SIW 至矩形波導轉接，採孔徑耦合，於 RWG 開口中心置金屬條並在側邊設匹配 via 以操控場型、提升耦合與匹配。單一轉接模擬達 |S11|<−15 dB 之 50.2–65.2 GHz（26%），頻帶內插損 <0.23 dB；背靠背則 |S11|<−15 dB 的 52.5–64.5 GHz（20.5%），插損 <0.4 dB。   
 
-
-
-
-
+A_K-band_Wideband_Low_Insertion_Loss_SIW-to-Waveguide_Transition  
+K頻段寬頻低損SIW-至-波導轉接，結構由SIW腔體、四階雙脊波導與SIW-to-GCPW線組成；透過調整腔內金屬貼片與脊階尺寸，兼顧場型與阻抗連續。量測/模擬顯示18–27 GHz內|S11|<−20 dB、插入損耗<1.2 dB，覆蓋整個K頻；採三層RO4350B/4450F製作，整合度高、抑漏佳。相較傳統微帶探針+背短方案  
 
