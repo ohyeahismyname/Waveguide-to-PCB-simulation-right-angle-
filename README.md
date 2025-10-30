@@ -38,6 +38,11 @@ Bandwidth_Extension_of_Planar_Microstrip-to-Waveguide_Transition_by_Controlling_
 Broadband Transition of Substrate-Integrated 不知道為什麼會有兩個檔案 好像差不多 可以參考參考  
 提出V頻段單層PCB之SIW至空腔矩形波導直角轉接。以耦合貼片配兩對感性柱並微修耦合孔形狀，增強耦合與匹配；結構緊湊、低成本。模擬示|S11|<−10 dB之頻寬達約48%（≈47.2–77.5 GHz），單一轉接插損<0.5 dB  
 
+Broadband Substrate Integrated Waveguide to Rectangular Waveguide Transition at V-Band  有兩個檔案 原版以及自己tune的  
+提出單層、直角式 SIW 至矩形波導轉接，採孔徑耦合，於 RWG 開口中心置金屬條並在側邊設匹配 via 以操控場型、提升耦合與匹配。單一轉接模擬達 |S11|<−15 dB 之 50.2–65.2 GHz（26%），頻帶內插損 <0.23 dB；背靠背則 |S11|<−15 dB 的 52.5–64.5 GHz（20.5%），插損 <0.4 dB。
+
+
+
 
 
 
